@@ -1,0 +1,14 @@
+/home/gabis/Modelado_y_programacion/proyecto1/proyectoChat/bin/Debug/net8.0/proyectoChat
+/home/gabis/Modelado_y_programacion/proyecto1/proyectoChat/bin/Debug/net8.0/proyectoChat.deps.json
+/home/gabis/Modelado_y_programacion/proyecto1/proyectoChat/bin/Debug/net8.0/proyectoChat.runtimeconfig.json
+/home/gabis/Modelado_y_programacion/proyecto1/proyectoChat/bin/Debug/net8.0/proyectoChat.dll
+/home/gabis/Modelado_y_programacion/proyecto1/proyectoChat/bin/Debug/net8.0/proyectoChat.pdb
+/home/gabis/Modelado_y_programacion/proyecto1/proyectoChat/obj/Debug/net8.0/proyectoChat.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabis/Modelado_y_programacion/proyecto1/proyectoChat/obj/Debug/net8.0/proyectoChat.AssemblyInfoInputs.cache
+/home/gabis/Modelado_y_programacion/proyecto1/proyectoChat/obj/Debug/net8.0/proyectoChat.AssemblyInfo.cs
+/home/gabis/Modelado_y_programacion/proyecto1/proyectoChat/obj/Debug/net8.0/proyectoChat.csproj.CoreCompileInputs.cache
+/home/gabis/Modelado_y_programacion/proyecto1/proyectoChat/obj/Debug/net8.0/proyectoChat.dll
+/home/gabis/Modelado_y_programacion/proyecto1/proyectoChat/obj/Debug/net8.0/refint/proyectoChat.dll
+/home/gabis/Modelado_y_programacion/proyecto1/proyectoChat/obj/Debug/net8.0/proyectoChat.pdb
+/home/gabis/Modelado_y_programacion/proyecto1/proyectoChat/obj/Debug/net8.0/proyectoChat.genruntimeconfig.cache
+/home/gabis/Modelado_y_programacion/proyecto1/proyectoChat/obj/Debug/net8.0/ref/proyectoChat.dll
